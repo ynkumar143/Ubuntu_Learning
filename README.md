@@ -1,8 +1,8 @@
 # Ubuntu_Learning
 
-//Adding your shell scripts as commands for your command prompt. 
+Adding your shell scripts as commands for your command prompt. 
 
-//When there is script file you have to open every day. It is better to use the shell script and add to the bin directory. 
+When there is script file you have to open every day. It is better to use the shell script and add to the bin directory. 
 
 1. Create a folder bin in your $HOME directory. 
        Ex: /home/nagendra/bin
